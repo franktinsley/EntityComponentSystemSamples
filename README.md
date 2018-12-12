@@ -3,8 +3,6 @@ Welcome to the Entity Component System and C# Job System samples repository!
 
 Here you can find the resources required to start building with these new systems today.
 
-Test addition!
-
 We have also provided a new forum where you can find more information and share your experiences with these new systems.
 
 [Click here to visit the forum](https://unity3d.com/performance-by-default)
@@ -44,5 +42,6 @@ Looking for information on how to get started or have specific questions? Visit 
 
 [Go to documentation](https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/Documentation/index.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg3MDg4MjZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDQ1NjAwOTUsLTEzMjg3MDg4MjZdfQ
+==
 -->
