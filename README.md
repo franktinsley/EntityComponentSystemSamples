@@ -7,6 +7,8 @@ We have also provided a new forum where you can find more information and share 
 
 [Click here to visit the forum](https://unity3d.com/performance-by-default)
 
+## Hi
+
 ## What is in the build
 We have been working on a new high performance multithreaded system, that will make it possible for games to fully utilise the multicore processors available today without heavy programming headache. This is possible thanks to the new Entity Component System which provides a way to write performant code by default. Paired with the C# Job System and a new math-aware backend compiler technology named Burst. Unity can produce highly optimised code for the particular capabilities of the platform you’re compiling for. 
 
@@ -42,6 +44,5 @@ Looking for information on how to get started or have specific questions? Visit 
 
 [Go to documentation](https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/Documentation/index.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ1NjAwOTUsLTEzMjg3MDg4MjZdfQ
-==
+eyJoaXN0b3J5IjpbLTU1MDQzODA0NiwtMTMyODcwODgyNl19
 -->
